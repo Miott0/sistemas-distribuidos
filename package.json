@@ -37,6 +37,7 @@
     "cookie-parser": "^1.4.6",
     "joi": "^17.6.0",
     "mongoose": "^6.3.3",
+    "ordering-app": "file:",
     "passport": "^0.5.2",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
